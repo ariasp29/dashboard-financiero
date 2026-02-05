@@ -40,5 +40,7 @@ Este proyecto fue desarrollado para reforzar habilidades en:
 
 
 ## Autor
+
   Nicolas Arias
+  
 Desarrollador Frontend Jr.
